@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g id="robot-icon" fill="#1e3c3c" stroke="none">
+        <path d="M100,0 C120,0 140,10 150,30 L170,30 C180,30 190,40 190,50 L190,70 C190,80 180,90 170,90 L170,130 C170,150 160,170 140,180 L140,190 C140,195 135,200 130,200 L70,200 C65,200 60,195 60,190 L60,180 C40,170 30,150 30,130 L30,90 C20,90 10,80 10,70 L10,50 C10,40 20,30 30,30 L50,30 C60,10 80,0 100,0 Z" id="body"/>
+        <circle id="left-eye" fill="#f5f0e6" cx="70" cy="100" r="20"/>
+        <circle id="right-eye" fill="#f5f0e6" cx="130" cy="100" r="20"/>
+        <circle id="left-pupil" fill="#1e3c3c" cx="70" cy="100" r="10"/>
+        <circle id="right-pupil" fill="#1e3c3c" cx="130" cy="100" r="10"/>
+        <path d="M60,140 C60,140 80,160 140,140" id="mouth" stroke="#f5f0e6" stroke-width="5" fill="none"/>
+        <rect id="left-ear" fill="#f5f0e6" x="10" y="80" width="20" height="40" rx="10"/>
+        <rect id="right-ear" fill="#f5f0e6" x="170" y="80" width="20" height="40" rx="10"/>
+        <rect id="graduation-cap-base" fill="#f5f0e6" x="60" y="40" width="80" height="10"/>
+        <path d="M100,20 L60,40 L140,40 Z" id="graduation-cap" fill="#f5f0e6"/>
+        <circle id="left-gear" fill="#f5f0e6" cx="70" cy="180" r="15"/>
+        <circle id="right-gear" fill="#f5f0e6" cx="130" cy="180" r="15"/>
+        <path d="M70,165 L70,195 M55,180 L85,180 M60,170 L80,190 M60,190 L80,170" id="left-gear-teeth" stroke="#1e3c3c" stroke-width="3"/>
+        <path d="M130,165 L130,195 M115,180 L145,180 M120,170 L140,190 M120,190 L140,170" id="right-gear-teeth" stroke="#1e3c3c" stroke-width="3"/>
+    </g>
+</svg>

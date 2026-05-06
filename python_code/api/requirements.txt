@@ -1,0 +1,15 @@
+# Multi-Agent Chatbot System Requirements
+
+pandas==2.2.3
+python-dotenv==1.1.0
+openai==1.79.0
+runpod==1.7.9
+pinecone==7.0.1
+
+
+PyPDF2>=3.0.1
+python-docx>=0.8.11
+
+
+
+
